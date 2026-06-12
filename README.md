@@ -11,9 +11,9 @@ As an Information Technology student, I specialize in creating responsive, acces
 
 ## Core Expertise
 
-* **Development:** HTML5, CSS3, JavaScript, Bootstrap, Python (Flask)
-* **Design:** UI/UX Strategy, Branding & Logos, Photo Manipulation
-* **Workflow:** Git, GitHub Version Control, Agile Environments
+* **Development:** HTML5, CSS, JavaScript, Bootstrap, Python (Flask)
+* **Design:** UI/UX Strategy, Branding & Logos
+* **Workflow:** Git, GitHub Version Control
 
 ## Selected Works
 
@@ -21,13 +21,10 @@ As an Information Technology student, I specialize in creating responsive, acces
 A dedicated e-commerce web platform showcasing skin care formulation transparency, tailored ingredients, and fluid user experiences.
 * `#HTML5` `#CSS3` `#Flask`
 
-### 🗺️ Chronos Mariner
-An immersive, beautifully conceptualized web interface exploring deep structural storytelling around lost mythical cities.
-* `#Bootstrap5` `#JavaScript` `#UI-Design`
-
 ## Let's Connect
 
 Whether you're looking to build an intuitive application, collaborate on a visual design framework, or simply talk shop—reach out.
 
 * **Email:** aeryllmoncayo@gmail.com
 * **LinkedIn:** https://linkedin.com/in/aeryll-reign-moncayo-226151395
+* **Facebook:** https://www.facebook.com/aeryll12
