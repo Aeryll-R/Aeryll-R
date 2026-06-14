@@ -4,7 +4,8 @@ Building functional front-end applications, optimizing back-end workflows, and c
 
 ## About Me
 
-As an Information Technology student, I specialize in creating responsive, accessible static architectures while linking them seamlessly to structured backend processes. When I'm not writing clean code, I focus on graphic layouts, logo identity curation, and digital user experiences.
+I am a BSIT student with a passion for web development. My forte is front-end development, where I create responsive and user-friendly website designs. I can also work with backend processes, including database management and system integration. In addition, I enjoy graphic design and creating digital content, which helps me bring creativity and functionality together in my projects.
+
 
 * I balance technical logic with visual storytelling.
 * Active academic scholar and student organization leader.
