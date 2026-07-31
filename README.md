@@ -15,7 +15,7 @@ I'm a BSIT student with a passion for web development. My forte is front-end dev
 
 - 🎓 Active academic scholar and student organization leader
 - 🎨 I balance technical logic with visual storytelling
-- 🔭 Currently working on **SeaDog** — a tilapia-based hotdog feasibility study (thesis) — and **survAIval**, a Smart Disaster Risk Monitoring platform
+- 🔭 Currently accepting: academic works, virtual assistance, and research projects
 - 💬 Ask me about front-end architecture, Flask/PHP back-ends, or UI/UX design systems
 
 ---
