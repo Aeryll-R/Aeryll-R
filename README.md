@@ -58,10 +58,3 @@ I'm a BSIT student with a passion for web development. My forte is front-end dev
 | ⛵ **Paglaot** | A booking site built with a full PHP/MySQL back-end | `PHP` `MySQL` |
 | 🎮 **War On Drugs** | An HTML5 awareness game built to educate through interactive storytelling | `JavaScript` `HTML5` |
 
----
-
-### 📫 Let's Connect
-
-Whether you're looking to build an intuitive application, collaborate on a visual design framework, or simply talk shop — reach out!
-
-📧 **aeryllmoncayo@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/aeryll-reign-moncayo-226151395) · 📘 [Facebook](https://www.facebook.com/aeryll12)
